@@ -2,6 +2,7 @@ package com.American.reggie.controller;
 
 import com.American.reggie.common.R;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 
